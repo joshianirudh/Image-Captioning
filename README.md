@@ -3,7 +3,7 @@
 Project to generate image captions given images.
 # Dataset
 
-Request dataset from ["here"] (https://forms.illinois.edu/sec/1713398)
+Request dataset from [here] (https://forms.illinois.edu/sec/1713398)
 
 
 # Model used 
