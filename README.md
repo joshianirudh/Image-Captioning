@@ -10,4 +10,4 @@ Request dataset from <a href = "https://forms.illinois.edu/sec/1713398">here</a>
 
 Inception V3 for feature extraction and then beam search with k= 3, 5, 7
 
-
+!["example"](https://github.com/joshianirudh/Image-Captioning/blob/main/example.jpg "example")
